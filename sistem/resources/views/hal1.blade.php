@@ -58,7 +58,7 @@
     <div class="col-md-9">
       <div class="row mt-5 mx-auto">
           <div class="card" style="width: 18rem;">
-            <img src="../materi2/public/image/gitar01.jpg" class="card-img-top" alt="...">
+            <img src="../project2/public/image/gitar01.jpg" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Gitar Listrik Yamaha</h5>
               <p class="card-text">gitar listrik dengan harga murah</p>
@@ -72,7 +72,7 @@
             </div>
           </div>
           <div class="card" style="width: 18rem;">
-            <img src="../materi2/public/image/violin02.jpg" class="card-img-top" alt="...">
+            <img src="../project2/public/image/violin02.jpg" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">violin 4/4</h5>
               <p class="card-text">free ongkir seluruh indonesia</p>
@@ -86,7 +86,7 @@
             </div>
           </div>
           <div class="card" style="width: 18rem;">
-            <img src="../materi2/public/image/piano03.jpg" class="card-img-top" alt="...">
+            <img src="../project2/public/image/piano03.jpg" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">piano original</h5>
               <p class="card-text">terlaris sepanjang masa</p>
@@ -102,7 +102,7 @@
         </div>
         <div class="row mt-5 mx-auto">
           <div class="card" style="width: 18rem;">
-            <img src="../materi2/public/image/piano04.jpg" class="card-img-top" alt="...">
+            <img src="../project2/public/image/piano02.jpg" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">piano keren</h5>
               <p class="card-text">piano yang indah dengan memiliki suara unik</p>
@@ -116,7 +116,7 @@
             </div>
           </div>
           <div class="card" style="width: 18rem;">
-            <img src="../materi2/public/image/gitar05.jpg" class="card-img-top" alt="...">
+            <img src="../project2/public/image/gitar02.jpg" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">gitar string acoustic</h5>
               <p class="card-text">gitar dengan pemikat hati wanita</p>
@@ -130,7 +130,7 @@
             </div>
           </div>
           <div class="card" style="width: 18rem;">
-            <img src="../materi2/public/image/violin04.jpg" class="card-img-top" alt="...">
+            <img src="../project2/public/image/violin01.jpg" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">violin anjay</h5>
               <p class="card-text">melody untuk lagu tidur</p>
@@ -145,7 +145,7 @@
           </div>
           <div class="row mt-5 mx-auto">
           <div class="card" style="width: 18rem;">
-            <img src="../materi2/public/image/gitar06.jpg" class="card-img-top" alt="...">
+            <img src="../project2/public/image/gitar03.jpg" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">gitar listrik keren</h5>
               <p class="card-text">gitar listrik suara jernih</p>
@@ -159,7 +159,7 @@
             </div>
           </div>
           <div class="card" style="width: 18rem;">
-            <img src="../materi2/public/image/violin03.jpg" class="card-img-top" alt="...">
+            <img src="../project2/public/image/violin02.jpg" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">violin import original</h5>
               <p class="card-text">biola lengkap dengan suara indah</p>
@@ -173,7 +173,7 @@
             </div>
           </div>
           <div class="card" style="width: 18rem;">
-            <img src="../materi2/public/image/piano02.jpg" class="card-img-top" alt="...">
+            <img src="../project2/public/image/piano02.jpg" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">piano yamaha BL51</h5>
               <p class="card-text">spesial edition</p>
@@ -184,95 +184,6 @@
               <i class="fas fa-star"></i><br>
               <a href="#" class="btn btn-success" data-target="#produk9" data-toggle="modal">detail</a>
               <a href="#" class="btn btn-danger">Rp.17.000.000</a>
-            </div>
-          </div>
-        </div>
-        <div class="modal fade" id="produk1" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-          <div class="modal-dialog">
-            <div class="modal-content">
-              <div class="modal-header">
-                <h5 class="modal-title" id="exampleModalLabel">Detail Produk</h5>
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                  <span aria-hidden="true">&times;</span>
-                </button>
-              </div>
-              <div class="modal-body">
-                <div class="row">
-                  <div class="col-md-6">
-                    <img style="width: 450px;" src="../materi2/public/image/gitar01.jpg">
-                  </div>
-                </div>
-                <div class="col-md-6">
-                  <table class="table table-borderless">
-                    <tr>
-                      <th>Nama Produk</th>
-                      <td>gitar listrik yamaha</td>
-                    </tr>
-                    <tr>
-                      <th>Rating Produk</th>
-                        <td>
-                          <i class="fas fa-star"></i>
-                          <i class="fas fa-star"></i>
-                          <i class="fas fa-star"></i>
-                          <i class="fas fa-star"></i>
-                          <i class="fas fa-star-half-alt"></i><br>
-                        </td>
-                    </tr>
-                    <tr>
-                      <th>Biaya Ongkir</th>
-                      <td>standar</td>
-                    </tr>
-                  </table>
-                </div>
-              </div>
-              <div class="modal-footer">
-                <button type="button" class="btn btn-success" data-dismiss="modal">Kembali</button>
-                <button type="button" class="btn btn-danger">Beli Sekarang</button>
-              </div>
-            </div>
-          </div>
-        </div>  
-        <div class="modal fade" id="produk2" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-          <div class="modal-dialog">
-            <div class="modal-content">
-              <div class="modal-header">
-                <h5 class="modal-title" id="exampleModalLabel">Detail Produk</h5>
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                  <span aria-hidden="true">&times;</span>
-                </button>
-              </div>
-              <div class="modal-body">
-                <div class="row">
-                  <div class="col-md-6">
-                    <img style="width: 450px;" src="../materi2/public/image/violin02.jpg">
-                  </div>
-                </div>
-                <div class="col-md-6">
-                  <table class="table table-borderless">
-                    <tr>
-                      <th>Nama Produk</th>
-                      <td>violin 4/4</td>
-                    </tr>
-                    <tr>
-                      <th>Rating Produk</th>
-                        <td>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i><br>
-                        </td>
-                    </tr>
-                    <tr>
-                      <th>Biaya Ongkir</th>
-                      <td>standar</td>
-                    </tr>
-                  </table>
-                </div>
-              <div class="modal-footer">
-                <button type="button" class="btn btn-success" data-dismiss="modal">Kembali</button>
-                <button type="button" class="btn btn-danger">Beli Sekarang</button>
-              </div>
             </div>
           </div>
         </div>
